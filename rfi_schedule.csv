@@ -1,0 +1,57 @@
+rfi_id,name,Cat_1,Cat_2,modulation,start_freq,end_freq,A_1,A_2,A_3,A_4,A_5,A_6,A_7,A_8,A_9,A_10,A_11,A_12,A_13,A_14,A_15,A_16,A_17,A_18,A_19,A_20,A_21,A_22,A_23,A_24,A_25
+1,ratscat_low_fq,intermittent,radar,AM-SSB,1000,1000,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+2,aircraft_navigation_dme,intermittent,communication,BPSK,1025,1150,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+3,aeronautical_iff_gnd2air,intermittent,communication,BPSK,1030,1030,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+4,aeronautical_iff_air2gnd,intermittent,communication,BPSK,1090,1090,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+5,GPS_galileo,Continueous,GPS_Satellite,BPSK,1166,1186,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+6,VLA_modem,Continueous,Modem,QPSK,1200,1200,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+7,GPS_L2,Continueous,GPS_Satellite,BPSK,1217,1237,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+8,tars_pulsed_radar,intermittent,radar,AM-SSB,1223,1225,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+9,aerostat_bliss,malfunction,communication,BPSK,1231,1231,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+10,FAA_ARSR4_1,Continueous,radar,AM-SSB,1234,1234,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+11,GLONASS_L2,Continueous,GPS_Satellite,QPSK,1243,1251,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+12,tars_pulsed_radar_deming,pulsed_intermittent,radar,AM-SSB,1252,1253,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+13,FAA ARSR4 Deming,Continueous,radar,AM-SSB,1255,1255,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+14,FAA ARSR4 Eagle Peak,Continueous,radar,AM-SSB,1262,1262,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+15,compass_e6,intermittent,GPS_Satellite,QPSK,1268,1268,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+16,tars_pulsed_radar_deming,pulsed_interrmittent,radar,AM-SSB,1283,1284,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+17,FAA ARSR4 Albuquerque,Continueous,radar,AM-SSB,1310,1310,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+18,FAA_ARSR4_1,Continueous,radar,AM-SSB,1317,1317,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+19,FAA ARSR4 Deming,Continueous,radar,AM-SSB,1337,1337,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+20,FAA ARSR4 Eagle Peak,Continueous,radar,AM-SSB,1345,1345,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+21,wsmr_rajpr_transponder,intermittent,transponder,BPSK,1357,1357,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+22,wsmr_rajpr_transponder,intermittent,transponder,BPSK,1365,1365,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+23,wsmr_rajpr_transponder,intermittent,transponder,BPSK,1369,1369,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+24,gps_l3_nudet,intermittent,GPS_Satellite,QPSK,1376,1386,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+25,wsmr_rajpr_transponder,intermittent,transponder,BPSK,1385,1385,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+26,wsmr_rajpr_transponder,intermittent,transponder,BPSK,1393,1393,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+27,internal_birdie,Continueous,internal,AM-SSB,1400,1400,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+28,internal_birdie,Continueous,internal,AM-SSB,1408,1408,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+29,wsmr_rajpr_transponder,intermittent,transponder,BPSK,1433,1433,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+30,wsmr_telemetry,intermittent,transponder,BPSK,1437,1453,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+31,HAB,intermittent,communication,BPSK,1445,1445,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+32,test_telemetry,intermittent,communication,BPSK,1449,1449,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+33,test_telemetry,intermittent,communication,BPSK,1453,1453,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+34,HAB,intermittent,communication,BPSK,1454,1454,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+35,test_telemetry,intermittent,communication,BPSK,1461,1461,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+36,HAB,intermittent,communication,BPSK,1502,1502,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+37,wsmr_jamming_telemetry,intermittent,communication,BPSK,1505,1505,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+38,HAB,intermittent,communication,BPSK,1516,1516,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+39,IMARSAT,intermittent,Satellites,QPSK,1525,1564,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+40,HAB,intermittent,communication,BPSK,1526,1526,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+41,test_telemetry,intermittent,communication,BPSK,1530,1530,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+42,wsmr_jamming_telemetry,intermittent,communication,BPSK,1531,1531,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+43,GPS_L1,Continueous,GPS_Satellite,BPSK,1564,1586,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+44,GPS_L1_jamming,Continueous,GPS_Satellite,BPSK,1565,1565,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+45,GPS_L1_jamming,Continueous,GPS_Satellite,BPSK,1585,1585,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+46,Glonass L1,Continueous,GPS_Satellite,BPSK,1606,1606,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+47,Glonass L1,Continueous,GPS_Satellite,BPSK,1616,1616,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+48,iridium,Continueous,Satellites,BPSK,1618,1627,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+49,2nd_harminic_vla_radios,sporadic,communication,BPSK,1642,1642,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+50,radio_condes_wx_baloon,intermittent,communication,BPSK,1668,1680,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+51,goes_weather_satellite,intermittent,communication,BPSK,1683,1687,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+52,goes_weather_satellite,intermittent,communication,BPSK,1689,1693,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+53,noaa_weather_satellite,intermittent,communication,BPSK,1700,1702,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+54,noaa_weather_satellite,intermittent,communication,BPSK,1705,1709,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+55,HAB,intermittent,communication,BPSK,1771,1771,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+56,pcs_cell_phone,Continueous,phone_base_tower,QPSK,1850,1990,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
